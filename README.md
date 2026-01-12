@@ -1,1 +1,4 @@
-# learning-github
+# learning-GitHub
+
+This is locky learning github
+
